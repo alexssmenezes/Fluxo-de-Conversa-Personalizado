@@ -1,2 +1,3 @@
-# Fluxo-de-Conversa-Personalizado
-Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+# Copiloto Personalizado V2
+
+Este projeto contém um Copiloto com mensagens de erro personalizadas e ajuste de qualidade de respostas usando GenAI.
